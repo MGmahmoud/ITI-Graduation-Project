@@ -150,4 +150,4 @@ Have questions or feedback? Feel free to reach out:
 
 > “Let the numbers speak – and we make sure they are heard.”
 
-> This project showcases our passion for data and ability to build from scratch a complete BI pipeline that solves real-world problems.
+> This project showcases our passion for data and ability to build from scratch a complete BI pipeline that solves real-world problems..
