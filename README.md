@@ -79,22 +79,22 @@ Our goal was to build an integrated system that allows stakeholders to analyze *
 
 ## 📸 Screenshots
 
-###ERD
+ERD
 ![ERD(ITI)](https://github.com/user-attachments/assets/be78e3f9-3877-4421-a679-5908bd4753da)
 ---
-###Mapping
+Mapping
 ![Mapping(ITI)](https://github.com/user-attachments/assets/13f3c677-a920-4fe4-ba55-0069a62c033d)
 ---
-###Database Schema
+Database Schema
 ![Database Schema](https://github.com/user-attachments/assets/970b11c6-022b-4c62-a01b-2705f105fe0d)
 ---
-###Data Warhouse Schema
+Data Warhouse Schema
 ![ITI_EDW_Galaxy Schema](https://github.com/user-attachments/assets/4673507d-30b6-4bf0-a9d2-fc9a4909b43b)
 ---
-###Reports
+Reports
 ![Report](https://github.com/user-attachments/assets/ef3295ee-502c-477c-bd44-0cc9ca533307)
 ---
-###Dashboards
+Dashboards
 ![Dashboard 1](https://github.com/user-attachments/assets/236e7772-d3cb-4e9c-9ff2-1cfd9803bb2a)
 ---
 ![Dashboard 2](https://github.com/user-attachments/assets/2475a126-3534-4b9b-93a9-104739de8f29)
