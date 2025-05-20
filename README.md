@@ -131,7 +131,7 @@ Dashboards
 
 ## Team Members
 
-* Mahmoud Elhelaly [LinkedIn] (https://www.linkedin.com/in/mahmoud--elhelaly/)
+* Mahmoud Elhelaly [LinkedIn](https://www.linkedin.com/in/mahmoud--elhelaly/)
 * Mahmoud Kamel [LinkedIn](https://www.linkedin.com/in/mahmoud--kamel/)
 * Ahmed Marwan [LinkedIn](https://www.linkedin.com/in/ahmed-marwan-6b6462246/)
 * Madona Samy [LinkedIn]()
@@ -144,7 +144,6 @@ Have questions or feedback? Feel free to reach out:
 
 * 📧 [elhelalymahmoud001@gmail.com](mailto:elhelalymahmoud001@gmail.com)
 * 🌐 [LinkedIn](https://www.linkedin.com/in/mahmoud--elhelaly/)
-
 ---
 
 ## Final Words
