@@ -92,6 +92,7 @@ Data Warhouse Schema
 ![ITI_EDW_Galaxy Schema](https://github.com/user-attachments/assets/4673507d-30b6-4bf0-a9d2-fc9a4909b43b)
 ---
 Reports
+
 ![Report](https://github.com/user-attachments/assets/ef3295ee-502c-477c-bd44-0cc9ca533307)
 ---
 Dashboards
@@ -144,4 +145,5 @@ Have questions or feedback? Feel free to reach out:
 ## Final Words
 
 > “Let the numbers speak – and we make sure they are heard.”
+
 > This project showcases our passion for data and ability to build from scratch a complete BI pipeline that solves real-world problems.
