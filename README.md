@@ -4,13 +4,13 @@ Welcome to our comprehensive BI project developed as part of the **ITI 4-month p
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Our goal was to build an integrated system that allows stakeholders to analyze **student exam performance**, **certification status**, and **employment outcomes**. The project covers both the **back-end infrastructure** (databases, data warehouse, ETL) and **front-end reporting** (SSRS, Power BI).
 
 ---
 
-## 🚀 Project Lifecycle
+##  Project Lifecycle
 
 ### 1️⃣ Business Understanding
 
@@ -65,7 +65,7 @@ Our goal was to build an integrated system that allows stakeholders to analyze *
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **SQL Server** (Database & Data Warehouse)
 * **SSIS** (ETL Development)
@@ -77,7 +77,7 @@ Our goal was to build an integrated system that allows stakeholders to analyze *
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ERD
 ![ERD(ITI)](https://github.com/user-attachments/assets/be78e3f9-3877-4421-a679-5908bd4753da)
@@ -123,7 +123,7 @@ Dashboards
 
 ---
 
-## 🤝 Team Members
+## Team Members
 
 * Mahmoud Elhelaly [https://www.linkedin.com/in/mahmoud--elhelaly/]
 * Mahmoud Kamel
@@ -132,7 +132,7 @@ Dashboards
 * Sara Hamdy
 ---
 
-## 📬 Contact
+## Contact
 
 Have questions or feedback? Feel free to reach out:
 
@@ -141,7 +141,7 @@ Have questions or feedback? Feel free to reach out:
 
 ---
 
-## 🏁 Final Words
+## Final Words
 
 > “Let the numbers speak – and we make sure they are heard.”
 > This project showcases our passion for data and ability to build from scratch a complete BI pipeline that solves real-world problems.
