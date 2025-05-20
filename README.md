@@ -131,11 +131,11 @@ Dashboards
 
 ## Team Members
 
-* Mahmoud Elhelaly [https://www.linkedin.com/in/mahmoud--elhelaly/]
-* Mahmoud Kamel
-* Ahmed Marwan
-* Madona Samy
-* Sara Hamdy
+* Mahmoud Elhelaly [LinkedIn] (https://www.linkedin.com/in/mahmoud--elhelaly/)
+* Mahmoud Kamel [LinkedIn](https://www.linkedin.com/in/mahmoud--kamel/)
+* Ahmed Marwan [LinkedIn](https://www.linkedin.com/in/ahmed-marwan-6b6462246/)
+* Madona Samy [LinkedIn]()
+* Sara Hamdy [LinkedIn]()
 ---
 
 ## Contact
