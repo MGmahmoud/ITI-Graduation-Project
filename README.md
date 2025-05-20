@@ -134,8 +134,8 @@ Dashboards
 * Mahmoud Elhelaly [LinkedIn](https://www.linkedin.com/in/mahmoud--elhelaly/)
 * Mahmoud Kamel [LinkedIn](https://www.linkedin.com/in/mahmoud--kamel/)
 * Ahmed Marwan [LinkedIn](https://www.linkedin.com/in/ahmed-marwan-6b6462246/)
-* Madona Samy [LinkedIn]()
-* Sara Hamdy [LinkedIn]()
+* Madona Samy [LinkedIn](https://www.linkedin.com/in/madonasamy/)
+* Sara Hamdy [LinkedIn](https://www.linkedin.com/in/sara-hamdy-393246333/)
 ---
 
 ## Contact
